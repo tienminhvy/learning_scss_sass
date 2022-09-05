@@ -1,3 +1,8 @@
+a {
+  font-style: italic;
+  text-decoration: none;
+}
+
 body {
   font-family: sans-serif;
   color: #222222;
@@ -24,6 +29,8 @@ a {
 #header {
   height: 60px;
   background-color: #170a48;
+  border-radius: 6px;
+  border: 1px solid #333;
 }
 #header li {
   display: inline;
