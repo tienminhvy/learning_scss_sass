@@ -26,6 +26,10 @@ a {
   padding: 8px 12px;
 }
 
+* html body {
+  font-size: 125%;
+}
+
 #header {
   height: 60px;
   background-color: #170a48;
