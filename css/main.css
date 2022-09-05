@@ -29,8 +29,11 @@ a {
 #header {
   height: 60px;
   background-color: #170a48;
-  border-radius: 6px;
-  border: 1px solid #333;
+  border-radius: 12px;
+  border: 1px solid #fff;
+  box-shadow: 2px 0px 4px #999, 1px 1px 6px #f27731;
+  -moz-box-shadow: 2px 0px 4px #999, 1px 1px 6px #f27731;
+  -webkit-box-shadow: 2px 0px 4px #999, 1px 1px 6px #f27731;
 }
 #header li {
   display: inline;
