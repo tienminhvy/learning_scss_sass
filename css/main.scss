@@ -3,6 +3,9 @@
 
 @include fancy-links;
 
+@include google-font("Alegreya+Sans");
+@include google-font("Titllium+Web");
+
 body {
   font-family: sans-serif;
   color: $text-color;

@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans);
+@import url(https://fonts.googleapis.com/css?family=Titllium+Web);
 a {
   font-style: italic;
   text-decoration: none;
@@ -9,11 +11,11 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: "Palatino Linotype", Georgia, serif;
+  font-family: "Titllium Web", Georgia, serif;
 }
 
 p {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: "Alegreya Sans", Arial, sans-serif;
 }
 
 a {
